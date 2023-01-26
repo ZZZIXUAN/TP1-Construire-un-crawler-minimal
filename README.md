@@ -12,6 +12,6 @@ Dans ce projet, j'essaye d'explorer l'URL donnée (https://ensai.fr/) en utilisa
 * Exécutez le programme en utilisant `python3 main.py` (Exécutez avec les valeurs par défaut)
 * Exécutez les tests en utilisant `python3 -m unittest discover`
 
-### Contributeurs
+### Contributeur
 
 Zixuan WANG
