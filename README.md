@@ -7,7 +7,7 @@ Dans ce projet, nous essayons d'explorer l'URL donnée (https://ensai.fr/) en ut
 
 ## Etapes de la mise en place
 * Connectez ce github `git clone https://github.com/ZZZIXUAN/TP-1-Construire-un-crawler-minimal.git`
-* Changer de répertoire `TP-1-Construire-un-crawler-minimal`
+* Changer de répertoire `cd TP-1-Construire-un-crawler-minimal`
 * Installez les exigences en exécutant `pip3 install -r requirements.txt`
 * Exécutez le programme en utilisant `python3 main.py` (Exécutez avec les valeurs par défaut)
 * Exécutez les tests en utilisant `python3 -m unittest discover`
