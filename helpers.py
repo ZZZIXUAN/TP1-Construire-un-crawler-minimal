@@ -8,7 +8,7 @@ def is_url_valid(link):
         - PDF ou DOC
         - liens d'envoi
     @input :
-        lien : Line présent dans la page web parent_url
+        lien : Lien présent dans la page web parent_url
     @output :
         booléen : invalid ou non
     """
@@ -24,7 +24,6 @@ def get_clean_url(parent_url, link):
     Nettoyer l'URL en
         - liens relatifs complets
         - toujours commencer l'URL par 'http://'
-        - supprimer le final "/"
     @input :
         parent_url : URL récupérée
         line : Lien présent dans la page web parent_url
